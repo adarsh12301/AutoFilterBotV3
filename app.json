@@ -16,7 +16,7 @@
       "inline"
     ],
     "website": "https://github.com/DalinMathew/AutoFilterBotV3",
-    "repository": "https://github.com/DalinMathew/AutoFilterBotV3",
+    "repository": "https://github.com/adarsh12301/AutoFilterBotV3",
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token.",
@@ -121,7 +121,6 @@
     "formation": {
         "worker": {
             "quantity": 1,
-            "size": "free"
         }
     }
 }
